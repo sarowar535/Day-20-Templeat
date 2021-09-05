@@ -1,0 +1,28 @@
+.navbar{
+    background: #E4F1FE;
+}
+.imga{
+    width: 40px;
+ }
+
+ .banner{
+     height: 500px;
+ }
+
+ .alert{
+     background: #D4EDDA;
+ }
+ .well{
+     font-size: 30px;
+     color: #326E3F;
+     font-weight: 600;
+ }
+ .you{
+     color: #6C9B77;
+ }
+
+ .scrollspy-example {
+    position: relative;
+    height: 160px;
+    overflow: auto;
+}
